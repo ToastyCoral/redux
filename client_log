@@ -1,0 +1,1695 @@
+[23:29:06] [main/INFO]: ModLauncher running: args [--username, AberrantNautilus, --version, forge-47.2.23, --gameDir, C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1), --assetsDir, C:\Users\ArcieL\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, 4b4172d178c644eba8bf7f8d11bd2ac8, --accessToken, ????????, --clientId, NTAzMjI4MGUtYWEyYy00OTE3LTkwOTMtYzM3ZWRiNDUwNjc4, --xuid, 2535433395142716, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\ArcieL\curseforge\minecraft\Install\quickPlay\java\1712903345152.json, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.23, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[23:29:06] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[23:29:07] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[23:29:07] [main/INFO]: Trying GL version 4.6
+[23:29:07] [main/INFO]: Requested GL version 4.6 got version 4.6
+[23:29:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/ArcieL/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[23:29:07] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 3070 Ti Laptop GPU/PCIe/SSE2 GL version 4.6.0 NVIDIA 551.86, NVIDIA Corporation
+[23:29:08] [main/INFO]: Found mod file aeroblender-1.20.1-1.0.1-neoforge.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file aether-1.20.1-1.3.1-neoforge.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file aether-redux-2.0.9-1.20.1-neoforge.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file Amplified_Nether_1.20.4_v1.2.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file ancient_aether-0.8.11.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file balm-forge-1.20.1-7.2.2.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file betterfpsdist-1.20.1-4.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file BiomesOPlenty-1.20.1-18.0.0.592.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.1.10.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file canary-mc1.20.1-0.3.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file Croptopia-1.20.1-FORGE-3.0.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file cupboard-1.20.1-2.6.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file deep_aether-1.20.1-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file Delightful-1.20.1-3.5.2.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file DungeonsArise-1.20.x-2.1.58-release.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file embeddium-0.3.12+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file endersdelight-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file entity_model_features_forge_1.20.1-1.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file entity_texture_features_forge_1.20.1-5.2.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file entityculling-forge-1.6.2-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file EpheroLib-1.20.1-FORGE-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file FastFurnace-1.20.1-8.0.2.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file FastLeafDecay-31.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file FastWorkbench-1.20.1-8.0.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file ferritecore-6.0.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.4.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file geophilic-v2.2.0-mc1.20u1.20.2.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file GeophilicReforged-v1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file gravestone-forge-1.20.1-1.0.15.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file Jade-1.20.1-forge-11.7.1.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file jei-1.20.1-forge-15.3.0.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file JustEnoughResources-1.20.1-1.4.0.247.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file lost_aether_content-1.20.1-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file modelfix-1.15.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file NekosEnchantedBooks-1.20.1-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file oculus-mc1.20.1-1.6.15a.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file Patchouli-1.20.1-84-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file PickUpNotifier-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file Placebo-1.20.1-8.6.1.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file PuzzlesLib-v8.1.18-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file reimagined-trims-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file saturn-mc1.20.1-0.1.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file smoothchunk-1.20.1-3.6.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file spark-1.10.53-forge.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file starlight-1.1.2+forge.1cda73c.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file structure_gel-1.20.1-2.16.1.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file The_Graveyard_3.1_(FORGE)_for_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file trimmable-tools-mc1.20-v1.0.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file twilightforest-1.20.1-4.3.2145-universal.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file waystones-forge-1.20-14.1.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file WWOO-FABRIC+FORGE+QUILT-2.0.0.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file Xaeros_Minimap_24.0.3_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file XaerosWorldMap_1.38.1_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsApi-1.20-Forge-4.0.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsBetterDesertTemples-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsBetterDungeons-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsBetterEndIsland-1.20-Forge-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsBetterMineshafts-1.20-Forge-4.0.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsBetterStrongholds-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsBetterWitchHuts-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/INFO]: Found mod file YungsExtras-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods}
+[23:29:08] [main/WARN]: Mod file C:\Users\ArcieL\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.23\fmlcore-1.20.1-47.2.23.jar is missing mods.toml file
+[23:29:08] [main/WARN]: Mod file C:\Users\ArcieL\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.23\javafmllanguage-1.20.1-47.2.23.jar is missing mods.toml file
+[23:29:08] [main/WARN]: Mod file C:\Users\ArcieL\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.23\lowcodelanguage-1.20.1-47.2.23.jar is missing mods.toml file
+[23:29:08] [main/WARN]: Mod file C:\Users\ArcieL\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.23\mclanguage-1.20.1-47.2.23.jar is missing mods.toml file
+[23:29:08] [main/INFO]: Found mod file fmlcore-1.20.1-47.2.23.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@723ed581
+[23:29:08] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.2.23.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@723ed581
+[23:29:08] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.2.23.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@723ed581
+[23:29:08] [main/INFO]: Found mod file mclanguage-1.20.1-47.2.23.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@723ed581
+[23:29:08] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@723ed581
+[23:29:08] [main/INFO]: Found mod file forge-1.20.1-47.2.23-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@723ed581
+[23:29:08] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[23:29:08] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: aeroblender. Using Mod File: C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\mods\aeroblender-1.20.1-1.0.1-neoforge.jar
+[23:29:08] [main/INFO]: Found 9 dependencies adding them to mods collection
+[23:29:08] [main/INFO]: Found mod file nitrogen_internals-1.20.1-1.0.7-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4417af13
+[23:29:08] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4417af13
+[23:29:08] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.9.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4417af13
+[23:29:08] [main/INFO]: Found mod file MixinExtras-0.3.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4417af13
+[23:29:08] [main/INFO]: Found mod file puzzlesaccessapi-forge-8.0.7.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4417af13
+[23:29:08] [main/INFO]: Found mod file cumulus_menus-1.20.1-1.0.0-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4417af13
+[23:29:08] [main/INFO]: Found mod file curios-forge-5.3.5+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4417af13
+[23:29:08] [main/INFO]: Found mod file jcpp-1.4.14.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4417af13
+[23:29:08] [main/INFO]: Found mod file httpmime-4.5.10.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4417af13
+[23:29:10] [main/INFO]: Compatibility level set to JAVA_17
+[23:29:10] [main/ERROR]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[23:29:10] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[23:29:10] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.2.23, --gameDir, C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1), --assetsDir, C:\Users\ArcieL\curseforge\minecraft\Install\assets, --uuid, 4b4172d178c644eba8bf7f8d11bd2ac8, --username, AberrantNautilus, --assetIndex, 5, --accessToken, ????????, --clientId, NTAzMjI4MGUtYWEyYy00OTE3LTkwOTMtYzM3ZWRiNDUwNjc4, --xuid, 2535433395142716, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\ArcieL\curseforge\minecraft\Install\quickPlay\java\1712903345152.json]
+[23:29:10] [main/INFO]: Loaded Saturn config file with 4 configurable options
+[23:29:10] [main/WARN]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:29:10] [main/WARN]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:29:10] [main/INFO]: Loaded configuration file for Embeddium: 118 options available, 3 override(s) found
+[23:29:10] [main/INFO]: Searching for graphics cards...
+[23:29:11] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) Iris(R) Xe Graphics, version=DriverVersion=30.0.101.1029]
+[23:29:11] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3070 Ti Laptop GPU, version=DriverVersion=31.0.15.5186]
+[23:29:11] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[23:29:11] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[23:29:11] [main/WARN]: Reference map 'entity_model_features_forge_1.20.1-forge-refmap.json' for entity_model_features.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:29:11] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:29:11] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:29:11] [main/INFO]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[23:29:11] [main/INFO]: Loading 75 mods:
+	- aeroblender 1.20.1-1.0.1-neoforge
+	- aether 1.20.1-1.3.1-neoforge
+	- aether_redux 2.0.9
+	- amplifiednether 1.2.4
+	- ancient_aether 0.8.11
+	- balm 7.2.2
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterdungeons 1.20-Forge-4.0.3
+	- betterendisland 1.20-Forge-2.0.6
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterfpsdist 1.20.1-4.3
+	- bettermineshafts 1.20-Forge-4.0.4
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterstrongholds 1.20-Forge-4.0.3
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- biomesoplenty 18.0.0.592
+	- bookshelf 20.1.10
+	- canary 0.3.3
+	- croptopia 3.0.4
+	- cumulus_menus 1.20.1-1.0.0-neoforge
+	- cupboard 1.20.1-2.6
+	- curios 5.3.5+1.20.1
+	- deep_aether 1.20.1-1.0.2
+	- delightful 3.5.2
+	- dungeons_arise 2.1.58-1.20.x
+	- dungeons_arise_seven_seas 1.0.2
+	- embeddium 0.3.12+mc1.20.1
+	- enchdesc 17.0.14
+	- endersdelight 1.0.3
+	- entity_model_features 1.3
+	- entity_texture_features 5.2.3
+	- entityculling 1.6.2
+	- epherolib 0.1.2
+	- farmersdelight 1.20.1-1.2.4
+	- fastbench 8.0.4
+	- fastfurnace 8.0.2
+	- fastleafdecay 31
+	- ferritecore 6.0.1
+	- forge 47.2.23
+	- geckolib 4.4.4
+	- geophilic 2.2.0-mc1.20u1.20.2
+	- geophilic_reforged 1.2.0
+	- gravestone 1.20.1-1.0.15
+	- graveyard 3.1
+	- jade 11.7.1
+	- jei 15.3.0.4
+	- jeresources 1.4.0.247
+	- lost_aether_content 1.2.3
+	- minecraft 1.20.1
+	- mixinextras 0.2.0-beta.9
+	- modelfix 1.15
+	- mr_reimagined_trims 1.0.3
+	- nebs 1.8.0
+	- nitrogen_internals 1.20.1-1.0.7-neoforge
+	- oculus 1.6.15a
+	- patchouli 1.20.1-84-FORGE
+	- pickupnotifier 8.0.0
+	- placebo 8.6.1
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.18
+	- rubidium 0.7.1
+	- saturn 0.1.3
+	- smoothchunk 1.20.1-3.6
+	- spark 1.10.53
+	- starlight 1.1.2+forge.1cda73c
+	- structure_gel 2.16.1
+	- terrablender 3.0.1.4
+	- trimmable_tools 1.0.4
+	- twilightforest 4.3.2145
+	- waystones 14.1.3
+	- wwoo_forge 2.0.0
+	- xaerominimap 24.0.3
+	- xaeroworldmap 1.38.1
+	- yungsapi 1.20-Forge-4.0.4
+	- yungsextras 1.20-Forge-4.0.3
+[23:29:11] [main/WARN]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:29:12] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:29:12] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:29:13] [main/WARN]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev.tr7zw.skinlayers.render.CustomizableModelPart)
+[23:29:13] [main/WARN]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[23:29:13] [main/WARN]: Error loading class: com/aetherteam/aether_genesis/block/natural/GreenAercloudBlock (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.block.natural.GreenAercloudBlock)
+[23:29:13] [main/WARN]: @Mixin target com.aetherteam.aether_genesis.block.natural.GreenAercloudBlock was not found aether_redux.mixins.json:common.block.GreenAercloudBlockMixin
+[23:29:13] [main/WARN]: Error loading class: com/aetherteam/aether_genesis/block/natural/OrangeTreeBlock (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.block.natural.OrangeTreeBlock)
+[23:29:13] [main/WARN]: @Mixin target com.aetherteam.aether_genesis.block.natural.OrangeTreeBlock was not found aether_redux.mixins.json:common.block.OrangeTreeMixin
+[23:29:13] [main/WARN]: Error loading class: com/aetherteam/aether_genesis/block/natural/PurpleAercloudBlock (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.block.natural.PurpleAercloudBlock)
+[23:29:13] [main/WARN]: @Mixin target com.aetherteam.aether_genesis.block.natural.PurpleAercloudBlock was not found aether_redux.mixins.json:common.block.PurpleAercloudBlockMixin
+[23:29:13] [main/WARN]: Error loading class: com/aetherteam/aether_genesis/client/renderer/entity/SkyrootMimicRenderer (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.client.renderer.entity.SkyrootMimicRenderer)
+[23:29:13] [main/WARN]: @Mixin target com.aetherteam.aether_genesis.client.renderer.entity.SkyrootMimicRenderer was not found aether_redux.mixins.json:client.render.MimicRendererMixin
+[23:29:13] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[23:29:13] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[23:29:13] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[23:29:13] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[23:29:13] [main/WARN]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[23:29:13] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[23:29:13] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[23:29:13] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[23:29:13] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[23:29:14] [main/WARN]: Error loading class: com/aetherteam/aether_genesis/client/renderer/entity/SkyrootMimicRenderer (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.client.renderer.entity.SkyrootMimicRenderer)
+[23:29:14] [main/WARN]: Error loading class: com/aetherteam/aether_genesis/client/renderer/entity/SkyrootMimicRenderer (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.client.renderer.entity.SkyrootMimicRenderer)
+[23:29:14] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[23:29:17] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:29:17] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:29:17] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:29:17] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[23:29:18] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 142 milliseconds
+[23:29:20] [Render thread/WARN]: Assets URL 'union:/C:/Users/ArcieL/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23290!/assets/.mcassetsroot' uses unexpected schema
+[23:29:20] [Render thread/WARN]: Assets URL 'union:/C:/Users/ArcieL/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23290!/data/.mcassetsroot' uses unexpected schema
+[23:29:20] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:29:21] [Render thread/INFO]: Setting user: AberrantNautilus
+[23:29:21] [Render thread/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Lnet/minecraft/client/GuiMessageTag;)V
+[23:29:21] [Render thread/INFO]:   BeforeConstant found STRING constant: value = 
+, stringValue = null
+[23:29:21] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[23:29:21] [Render thread/INFO]:       BeforeConstant found LdcInsn 
+[23:29:21] [Render thread/INFO]:   BeforeConstant found STRING constant: value = \\r, stringValue = null
+[23:29:21] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 1
+[23:29:21] [Render thread/INFO]:       BeforeConstant found LdcInsn \\r
+[23:29:21] [Render thread/INFO]:   BeforeConstant found STRING constant: value = 
+, stringValue = null
+[23:29:21] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 2
+[23:29:21] [Render thread/INFO]:       BeforeConstant found LdcInsn 
+
+[23:29:21] [Render thread/INFO]:   BeforeConstant found STRING constant: value = \\n, stringValue = null
+[23:29:21] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 3
+[23:29:21] [Render thread/INFO]:       BeforeConstant found LdcInsn \\n
+[23:29:21] [Render thread/INFO]:   BeforeConstant found CLASS constant: value = Ljava/lang/String;, typeValue = null
+[23:29:21] [Render thread/INFO]:   BeforeConstant found STRING constant: value = [{}] [CHAT] {}, stringValue = null
+[23:29:21] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 4
+[23:29:21] [Render thread/INFO]:       BeforeConstant found LdcInsn [{}] [CHAT] {}
+[23:29:21] [Render thread/INFO]:   BeforeConstant found STRING constant: value = [CHAT] {}, stringValue = null
+[23:29:21] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 5
+[23:29:21] [Render thread/INFO]:       BeforeConstant found LdcInsn [CHAT] {}
+[23:29:21] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[23:29:21] [Render thread/WARN]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[23:29:21] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[23:29:21] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU/PCIe/SSE2
+[23:29:21] [Render thread/INFO]: OpenGL Version: 4.6.0 NVIDIA 551.86
+[23:29:21] [Render thread/INFO]: Debug functionality is disabled.
+[23:29:21] [Render thread/INFO]: OpenGL 4.5 detected, enabling DSA.
+[23:29:21] [Render thread/WARN]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[23:29:21] [Render thread/WARN]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[23:29:21] [Render thread/WARN]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[23:29:21] [Render thread/WARN]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[23:29:21] [Render thread/WARN]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[23:29:21] [Render thread/WARN]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[23:29:21] [Render thread/WARN]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[23:29:21] [Render thread/WARN]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[23:29:21] [Render thread/WARN]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[23:29:21] [Render thread/INFO]: Profile: HIGH (+0 options changed by user)
+[23:29:22] [Render thread/INFO]: Using shaderpack: ComplementaryUnbound_r5.1.1.zip
+[23:29:22] [modloading-worker-0/INFO]: Forge mod loading, version 47.2.23, for MC 1.20.1 with MCP 20230612.114412
+[23:29:22] [modloading-worker-0/INFO]: MinecraftForge v47.2.23 Initialized
+[23:29:22] [modloading-worker-0/INFO]: Loading Entity Model Features, now available for Terraria!
+[23:29:22] [modloading-worker-0/INFO]: Loading Entity Texture Features, now compatible with Minecraft!
+[23:29:22] [modloading-worker-0/INFO]: Loaded config file.
+[23:29:22] [modloading-worker-0/INFO]: Saved config file.
+[23:29:22] [modloading-worker-0/INFO]: Constructing common components for pickupnotifier:main
+[23:29:22] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[23:29:22] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[23:29:22] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[23:29:22] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[23:29:22] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[23:29:22] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[23:29:22] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[23:29:22] [modloading-worker-0/INFO]: Constructing client components for pickupnotifier:main
+[23:29:23] [modloading-worker-0/INFO]: Loaded config for: cupboard.json
+[23:29:23] [modloading-worker-0/INFO]: 1 new ETF Random Properties registered by entity_model_features.
+[23:29:23] [modloading-worker-0/INFO]: Enabling William Wythers' Overhauled Overworld [FORGE]
+[23:29:23] [modloading-worker-0/INFO]: Constructing common components for puzzleslib:main
+[23:29:23] [modloading-worker-0/INFO]: Sending ConfigManager...
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Lost Content compat items
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Lost Content compat items
+[23:29:23] [modloading-worker-0/INFO]: Sending ConfigManager took 10.89 ms
+[23:29:23] [modloading-worker-0/INFO]: Constructing client components for puzzleslib:main
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Deep Aether: Registering Aether Redux compat blocks
+[23:29:23] [modloading-worker-0/INFO]: Creating default config file: croptopia_v3.conf
+[23:29:23] [modloading-worker-0/INFO]: Registered JSON trade offer adapter.
+[23:29:26] [Render thread/INFO]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[23:29:26] [Render thread/INFO]: [structure_gel] Registering data for structure_gel:data_handler_type
+[23:29:26] [Render thread/INFO]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[23:29:26] [Render thread/INFO]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[23:29:26] [Render thread/WARN]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddItemModifier$$Lambda$12681/0x0000000101879238@4888499d] * Field[conditions: passthrough[flatXmapped]] * Field[item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@15401d60] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:add_item.
+[23:29:26] [Render thread/WARN]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddLootTableModifier$$Lambda$12684/0x00000001018798e0@7f902f7] * Field[conditions: passthrough[flatXmapped]] * Field[lootTable: String[comapFlatMapped]]] has been registered twice for the same name farmersdelight:add_loot_table.
+[23:29:26] [Render thread/WARN]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.PastrySlicingModifier$$Lambda$12687/0x0000000101878800@481f9953] * Field[conditions: passthrough[flatXmapped]] * Field[slice: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@15401d60]] has been registered twice for the same name farmersdelight:pastry_slicing.
+[23:29:26] [Render thread/INFO]: Hardware information:
+[23:29:26] [Render thread/INFO]: CPU: 20x 12th Gen Intel(R) Core(TM) i7-12700H
+[23:29:26] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 3070 Ti Laptop GPU/PCIe/SSE2 (Supports OpenGL 4.6.0 NVIDIA 551.86)
+[23:29:26] [Render thread/INFO]: OS: Windows 11 (10.0)
+[23:29:26] [Render thread/WARN]: Error loading class: com/aetherteam/aether_genesis/client/renderer/entity/SkyrootMimicRenderer (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.client.renderer.entity.SkyrootMimicRenderer)
+[23:29:27] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources, builtin/DAGoldenSwetBallFixClient, builtin/ancient_aether_texture_tweaks, resource/overrides_pack, file/Better_End_Portal_Frame_(1.20).zip, file/Better_Enderdragon.zip, file/EnderEyes_1.20.1_v3.zip, file/FreshAnimations_v1.9.zip, file/Better_Dogs_V0.40.zip
+[23:29:27] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\resourcepacks\EnderEyes_1.20.1_v3.zip
+[23:29:27] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\ArcieL\curseforge\minecraft\Instances\Trini (1)\resourcepacks\EnderEyes_1.20.1_v3.zip
+[23:29:27] [modloading-worker-0/INFO]: Loading client config for pickupnotifier
+[23:29:27] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[23:29:27] [Worker-Main-14/INFO]: HELLO FROM PREINIT
+[23:29:27] [Worker-Main-14/INFO]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
+[23:29:27] [Forge Version Check/INFO]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
+[23:29:27] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[23:29:27] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[23:29:27] [Render thread/INFO]: Registered region aether:the_aether to index 0 for type THE_AETHER
+[23:29:27] [Render thread/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[23:29:27] [Render thread/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[23:29:27] [Render thread/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[23:29:27] [Render thread/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[23:29:27] [Render thread/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[23:29:28] [Render thread/INFO]: Registered region ancient_aether:ancient_aether to index 1 for type THE_AETHER
+[23:29:28] [Render thread/INFO]: Registered region deep_aether:deep_aether to index 2 for type THE_AETHER
+[23:29:28] [Render thread/INFO]: Registered region aether_redux:aether_redux_region to index 3 for type THE_AETHER
+[23:29:28] [Worker-Main-13/INFO]: Loading Xaero's World Map - Stage 1/2
+[23:29:28] [Placebo Patreon Trail Loader/INFO]: Loading patreon trails data...
+[23:29:28] [Placebo Patreon Wing Loader/INFO]: Loading patreon wing data...
+[23:29:28] [Worker-Main-3/INFO]: Loading Xaero's Minimap - Stage 1/2
+[23:29:28] [Worker-Main-2/WARN]: Texture delightful:block/cantaloupe_plant with size 12x10 limits mip level from 4 to 1
+[23:29:28] [Placebo Patreon Wing Loader/INFO]: Loaded 28 patreon wings.
+[23:29:28] [Placebo Patreon Trail Loader/INFO]: Loaded 38 patreon trails.
+[23:29:29] [Forge Version Check/INFO]: [saturn] Found status: AHEAD Current: 0.1.3 Target: null
+[23:29:29] [Forge Version Check/INFO]: [mr_reimagined_trims] Starting version check at https://api.modrinth.com/updates/Go9Vr0TE/forge_updates.json
+[23:29:29] [Forge Version Check/INFO]: [mr_reimagined_trims] Found status: OUTDATED Current: 1.0.3 Target: 1.0.3+mod
+[23:29:29] [Forge Version Check/INFO]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[23:29:29] [Forge Version Check/INFO]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.3.1-neoforge Target: null
+[23:29:29] [Forge Version Check/INFO]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[23:29:29] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[23:29:30] [Forge Version Check/INFO]: [bookshelf] Found status: BETA Current: 20.1.10 Target: 20.1.10
+[23:29:30] [Forge Version Check/INFO]: [lost_aether_content] Starting version check at http://changelogs.moddinglegacy.com/lost-content.json
+[23:29:30] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[23:29:30] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[23:29:30] [Render thread/INFO]: No Optifine!
+[23:29:30] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[23:29:30] [Render thread/INFO]: Xaero's Minimap: Iris found!
+[23:29:30] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[23:29:30] [Render thread/INFO]: New world map region cache hash code: -897935520
+[23:29:30] [Render thread/INFO]: Registered player tracker system: map_synced
+[23:29:30] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[23:29:30] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[23:29:30] [Render thread/INFO]: No Optifine!
+[23:29:30] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[23:29:30] [Render thread/INFO]: Xaero's World Map: Iris found!
+[23:29:31] [Forge Version Check/INFO]: [lost_aether_content] Found status: UP_TO_DATE Current: 1.2.3 Target: null
+[23:29:31] [Forge Version Check/INFO]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
+[23:29:31] [Forge Version Check/INFO]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[23:29:31] [Forge Version Check/INFO]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[23:29:31] [Forge Version Check/INFO]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[23:29:31] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23:29:31] [Forge Version Check/INFO]: [forge] Found status: AHEAD Current: 47.2.23 Target: null
+[23:29:31] [Forge Version Check/INFO]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[23:29:31] [Forge Version Check/INFO]: [twilightforest] Found status: AHEAD Current: 4.3.2145 Target: null
+[23:29:31] [Forge Version Check/INFO]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[23:29:32] [Forge Version Check/INFO]: [structure_gel] Found status: BETA Current: 2.16.1 Target: null
+[23:29:32] [Forge Version Check/INFO]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[23:29:32] [Forge Version Check/INFO]: [enchdesc] Found status: BETA Current: 17.0.14 Target: 17.0.14
+[23:29:32] [Forge Version Check/INFO]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[23:29:33] [Forge Version Check/INFO]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.15 Target: null
+[23:29:33] [Forge Version Check/INFO]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[23:29:33] [Worker-Main-16/WARN]: Missing textures in model aether_redux:skybud#inventory:
+    minecraft:textures/atlas/blocks.png:aether_redux:item/materials/skybud
+[23:29:33] [Worker-Main-16/WARN]: Missing textures in model delightful:sliced_gloomgourd#bites=3:
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_side
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_top
+[23:29:33] [Worker-Main-16/WARN]: Missing textures in model delightful:sliced_gloomgourd#bites=2:
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_side
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_top
+[23:29:33] [Worker-Main-16/WARN]: Missing textures in model aether_redux:purple_glacia_leaves#distance=7,double_drops=true,persistent=false,snowy=true,waterlogged=false:
+    minecraft:textures/atlas/blocks.png:minecraft:blocks/snow
+[23:29:33] [Worker-Main-16/WARN]: Missing textures in model delightful:sliced_gloomgourd#bites=1:
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_side
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_top
+[23:29:33] [Worker-Main-16/WARN]: Missing textures in model aether_redux:glacia_leaves#distance=5,double_drops=false,persistent=true,snowy=true,waterlogged=true:
+    minecraft:textures/atlas/blocks.png:minecraft:blocks/snow
+[23:29:33] [Worker-Main-16/WARN]: Missing textures in model ancient_aether:valkyrum_gloves#inventory:
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_amethyst
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_copper
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_diamond
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_emerald
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_gold
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_iron
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_lapis
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_netherite
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_quartz
+    minecraft:textures/atlas/blocks.png:ancient_aether:trims/items/gloves_trim_redstone
+[23:29:33] [Worker-Main-16/WARN]: Missing textures in model aether_redux:spear_of_the_blight#inventory:
+    minecraft:textures/atlas/blocks.png:aether_redux:item/weapon/spear_of_the_blight
+[23:29:33] [Forge Version Check/INFO]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[23:29:33] [Forge Version Check/INFO]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[23:29:33] [Worker-Main-19/INFO]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[23:29:33] [Worker-Main-19/INFO]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[23:29:33] [Worker-Main-19/INFO]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[23:29:33] [Worker-Main-19/INFO]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[23:29:33] [Worker-Main-19/INFO]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[23:29:33] [Worker-Main-19/INFO]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[23:29:33] [Worker-Main-19/INFO]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[23:29:33] [Worker-Main-19/INFO]: Start loading plugin at net.brnbrd.delightful.compat.jade.DelightfulJadePlugin
+[23:29:33] [Forge Version Check/INFO]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.0-neoforge Target: null
+[23:29:33] [Forge Version Check/INFO]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[23:29:33] [Forge Version Check/INFO]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.18 Target: null
+[23:29:33] [Forge Version Check/INFO]: [delightful] Starting version check at https://raw.githubusercontent.com/brnbrd/Delightful/1.19/update/update.json
+[23:29:33] [Forge Version Check/INFO]: [delightful] Found status: BETA Current: 3.5.2 Target: null
+[23:29:33] [Forge Version Check/INFO]: [nebs] Starting version check at https://infernalstudios.org/api/mods/nekosenchantedbooks/forge
+[23:29:34] [Forge Version Check/INFO]: [nebs] Found status: UP_TO_DATE Current: 1.8.0 Target: null
+[23:29:35] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[23:29:35] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[23:29:35] [Render thread/WARN]: Missing sound for event: lost_aether_content:block.songstone.use
+[23:29:36] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[23:29:36] [Render thread/INFO]: Sound engine started
+[23:29:36] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[23:29:36] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[23:29:36] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[23:29:36] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[23:29:36] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/armor_trims.png-atlas
+[23:29:36] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[23:29:36] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/chest.png-atlas
+[23:29:36] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[23:29:36] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[23:29:39] [Render thread/INFO]: emissive suffixes loaded: {_e}.
+[23:29:40] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[23:29:40] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[23:29:40] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[23:29:40] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[23:29:40] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[23:29:40] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[23:29:40] [Render thread/INFO]: Created: 256x128x0 twilightforest:textures/atlas/magic_paintings.png-atlas
+[23:29:40] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 688 jsons
+[23:29:40] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[23:29:40] [Render thread/INFO]: reloading ETF data.
+[23:29:40] [Render thread/INFO]: emissive suffixes loaded: {_e}.
+[23:29:40] [Render thread/INFO]: Loaded config for: betterfpsdist.json
+[23:29:40] [Render thread/INFO]: Loaded config for: smoothchunk.json
+[23:29:40] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[23:29:40] [Render thread/INFO]: Starting custom uniform resolving
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10092":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10152":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.60016":
+[23:29:42] [Render thread/WARN]: - The block minecraft:dragon_head has no property with the name powered, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10240":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.60036":
+[23:29:42] [Render thread/WARN]: - The block minecraft:dragon_head has no property with the name powered, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10364":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10100":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10084":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10032":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10088":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10096":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:29:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10416":
+[23:29:42] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:29:54] [Render thread/ERROR]: Can't ping Swuggy_UwU.aternos.me:13262: Internal Exception: java.net.SocketException: Connection reset
+[23:29:55] [Render thread/INFO]: emissive suffixes loaded: {_e}.
+[23:29:55] [Render thread/INFO]: Connecting to Swuggy_UwU.aternos.me, 13262
+[23:29:57] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[23:29:59] [Netty Client IO #2/INFO]: Connected to a modded server.
+[23:29:59] [Render thread/INFO]: New minimap session initialized!
+[23:29:59] [Render thread/INFO]: New world map session initialized!
+[23:29:59] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[23:29:59] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[23:29:59] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[23:29:59] [Render thread/INFO]: Starting custom uniform resolving
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10092":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10152":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.60016":
+[23:30:00] [Render thread/WARN]: - The block minecraft:dragon_head has no property with the name powered, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10240":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.60036":
+[23:30:00] [Render thread/WARN]: - The block minecraft:dragon_head has no property with the name powered, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10364":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10100":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10084":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10032":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10088":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10096":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone has no property with the name variant, ignoring!
+[23:30:00] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10416":
+[23:30:00] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[23:30:00] [Render thread/INFO]: Started 10 worker threads
+[23:30:00] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[23:30:00] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[23:30:00] [Render thread/WARN]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:gravitite_ore_from_poison
+[23:30:00] [Render thread/WARN]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:quicksoil_from_poison
+[23:30:00] [Render thread/WARN]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:holystone_from_poison
+[23:30:00] [Render thread/WARN]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:skyroot_poison_bucket_from_poison
+[23:30:00] [Render thread/WARN]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:golden_dart_from_poison
+[23:30:00] [Render thread/WARN]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:purple_squash_from_green_squash
+[23:30:00] [Render thread/WARN]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:purple_squash_from_blue_squash
+[23:30:00] [Render thread/WARN]: Unknown recipe category: deep_aether:poison_recipe/deep_aether:blueberry_from_poison
+[23:30:00] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[23:30:02] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[23:30:02] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[23:30:02] [Render thread/INFO]: Starting JEI...
+[23:30:02] [Render thread/INFO]: Registering item subtypes...
+[23:30:02] [Render thread/INFO]: Registering item subtypes took 1.475 ms
+[23:30:02] [Render thread/INFO]: Registering fluid subtypes...
+[23:30:02] [Render thread/INFO]: Registering fluid subtypes took 694.8 ?s
+[23:30:02] [Render thread/INFO]: Registering ingredients...
+[23:30:02] [Render thread/ERROR]: Exception caught during firing event: Registry Object not present: aether_redux:polished_driftshale
+	Index: 1
+	Listeners:
+		0: LOWEST
+		1: ASM: class net.zepalesque.redux.item.ReduxCreativeTabs buildCreativeModeTabs(Lnet/minecraftforge/event/BuildCreativeModeTabContentsEvent;)V
+java.lang.NullPointerException: Registry Object not present: aether_redux:polished_driftshale
+	at java.base/java.util.Objects.requireNonNull(Objects.java:336)
+	at TRANSFORMER/forge@47.2.23/net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:47)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at LAYER PLUGIN/javafmllanguage@1.20.1-47.2.23/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326)
+	at TRANSFORMER/forge@47.2.23/net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:61)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:171)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.load.PluginLoader.lambda$new$2(PluginLoader.java:78)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.load.PluginLoader.<init>(PluginLoader.java:78)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.main(Main.java:218)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+
+[23:30:02] [Render thread/ERROR]: Caught exception during event net.minecraftforge.event.BuildCreativeModeTabContentsEvent@49128aa6 dispatch for modid aether_redux
+java.lang.NullPointerException: Registry Object not present: aether_redux:polished_driftshale
+	at java.util.Objects.requireNonNull(Objects.java:336) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:47) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:61) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:171) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.lambda$new$2(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.<init>(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[forge-47.2.23.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23:30:02] [Render thread/ERROR]: Item Group crashed while building contents.Items from this group will be missing from the JEI ingredient list. net.minecraft.world.item.CreativeModeTab@47bc2cd0
+net.minecraftforge.fml.ModLoadingException: The Aether: Redux (aether_redux) encountered an error during the done event phase
+ 7java.lang.NullPointerException: Registry Object not present: aether_redux:polished_driftshale
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:118) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:61) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:171) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.lambda$new$2(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.<init>(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[forge-47.2.23.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.NullPointerException: Registry Object not present: aether_redux:polished_driftshale
+	at java.util.Objects.requireNonNull(Objects.java:336) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:47) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	... 44 more
+[23:30:02] [Render thread/ERROR]: Exception caught during firing event: Registry Object not present: aether_redux:driftshale
+	Index: 1
+	Listeners:
+		0: LOWEST
+		1: ASM: class net.zepalesque.redux.item.ReduxCreativeTabs buildCreativeModeTabs(Lnet/minecraftforge/event/BuildCreativeModeTabContentsEvent;)V
+java.lang.NullPointerException: Registry Object not present: aether_redux:driftshale
+	at java.base/java.util.Objects.requireNonNull(Objects.java:336)
+	at TRANSFORMER/forge@47.2.23/net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:108)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at LAYER PLUGIN/javafmllanguage@1.20.1-47.2.23/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326)
+	at TRANSFORMER/forge@47.2.23/net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:61)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:171)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.load.PluginLoader.lambda$new$2(PluginLoader.java:78)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.load.PluginLoader.<init>(PluginLoader.java:78)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.main(Main.java:218)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+
+[23:30:02] [Render thread/ERROR]: Caught exception during event net.minecraftforge.event.BuildCreativeModeTabContentsEvent@5fa6de8f dispatch for modid aether_redux
+java.lang.NullPointerException: Registry Object not present: aether_redux:driftshale
+	at java.util.Objects.requireNonNull(Objects.java:336) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:108) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:61) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:171) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.lambda$new$2(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.<init>(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[forge-47.2.23.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23:30:02] [Render thread/ERROR]: Item Group crashed while building contents.Items from this group will be missing from the JEI ingredient list. net.minecraft.world.item.CreativeModeTab@5e6d186c
+net.minecraftforge.fml.ModLoadingException: The Aether: Redux (aether_redux) encountered an error during the done event phase
+ 7java.lang.NullPointerException: Registry Object not present: aether_redux:driftshale
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:118) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:61) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:171) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.lambda$new$2(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.<init>(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[forge-47.2.23.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.NullPointerException: Registry Object not present: aether_redux:driftshale
+	at java.util.Objects.requireNonNull(Objects.java:336) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:108) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	... 44 more
+[23:30:02] [Render thread/ERROR]: Exception caught during firing event: Registry Object not present: aether_redux:valkyrie_ring
+	Index: 1
+	Listeners:
+		0: LOWEST
+		1: ASM: class net.zepalesque.redux.item.ReduxCreativeTabs buildCreativeModeTabs(Lnet/minecraftforge/event/BuildCreativeModeTabContentsEvent;)V
+java.lang.NullPointerException: Registry Object not present: aether_redux:valkyrie_ring
+	at java.base/java.util.Objects.requireNonNull(Objects.java:336)
+	at TRANSFORMER/forge@47.2.23/net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:275)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at LAYER PLUGIN/javafmllanguage@1.20.1-47.2.23/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326)
+	at TRANSFORMER/forge@47.2.23/net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:61)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:171)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.load.PluginLoader.lambda$new$2(PluginLoader.java:78)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.load.PluginLoader.<init>(PluginLoader.java:78)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137)
+	at TRANSFORMER/jei@15.3.0.4/mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.main(Main.java:218)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+
+[23:30:02] [Render thread/ERROR]: Caught exception during event net.minecraftforge.event.BuildCreativeModeTabContentsEvent@2495d45c dispatch for modid aether_redux
+java.lang.NullPointerException: Registry Object not present: aether_redux:valkyrie_ring
+	at java.util.Objects.requireNonNull(Objects.java:336) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:275) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:61) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:171) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.lambda$new$2(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.<init>(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[forge-47.2.23.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23:30:02] [Render thread/ERROR]: Item Group crashed while building contents.Items from this group will be missing from the JEI ingredient list. net.minecraft.world.item.CreativeModeTab@1ee7e8a4
+net.minecraftforge.fml.ModLoadingException: The Aether: Redux (aether_redux) encountered an error during the done event phase
+ 7java.lang.NullPointerException: Registry Object not present: aether_redux:valkyrie_ring
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:118) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:61) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:171) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.lambda$new$2(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.<init>(PluginLoader.java:78) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[forge-47.2.23.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.NullPointerException: Registry Object not present: aether_redux:valkyrie_ring
+	at java.util.Objects.requireNonNull(Objects.java:336) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:275) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	... 44 more
+[23:30:02] [Render thread/INFO]: Registering ingredients: jei:minecraft took 104.1 milliseconds
+[23:30:02] [Render thread/INFO]: Registering ingredients took 108.5 ms
+[23:30:02] [Render thread/INFO]: Registering categories...
+[23:30:02] [Render thread/INFO]: Registering categories: jei:minecraft took 12.84 milliseconds
+[23:30:02] [Render thread/INFO]: Reloading ResourceManager: vanilla, saturn-mc1.20.1-0.1.3.jar, YungsBetterDungeons-1.20-Forge-4.0.3.jar, YungsBetterWitchHuts-1.20-Forge-3.0.3.jar, reimagined-trims-1.0.3.jar, geckolib-forge-1.20.1-4.4.4.jar, aether-1.20.1-1.3.1-neoforge.jar, jei-1.20.1-forge-15.3.0.4.jar, The_Graveyard_3.1_(FORGE)_for_1.20.1.jar, YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar, waystones-forge-1.20-14.1.3.jar, XaerosWorldMap_1.38.1_Forge_1.20.jar, Placebo-1.20.1-8.6.1.jar, EpheroLib-1.20.1-FORGE-1.2.0.jar, YungsApi-1.20-Forge-4.0.4.jar, mixinextras-forge-0.2.0-beta.9.jar, Bookshelf-Forge-1.20.1-20.1.10.jar, lost_aether_content-1.20.1-1.2.3.jar, starlight-1.1.2+forge.1cda73c.jar, YungsBetterDesertTemples-1.20-Forge-3.0.3.jar, PickUpNotifier-v8.0.0-1.20.1-Forge.jar, balm-forge-1.20.1-7.2.2.jar, JustEnoughResources-1.20.1-1.4.0.247.jar, puzzlesaccessapi-forge-8.0.7.jar, YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar, DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar, forge-1.20.1-47.2.23-universal.jar, twilightforest-1.20.1-4.3.2145-universal.jar, geophilic-v2.2.0-mc1.20u1.20.2.jar, embeddium-0.3.12+mc1.20.1.jar, GeophilicReforged-v1.2.0.jar, structure_gel-1.20.1-2.16.1.jar, DungeonsArise-1.20.x-2.1.58-release.jar, client-1.20.1-20230612.114412-srg.jar, smoothchunk-1.20.1-3.6.jar, FarmersDelight-1.20.1-1.2.4.jar, entity_model_features_forge_1.20.1-1.3.jar, entity_texture_features_forge_1.20.1-5.2.3.jar, Amplified_Nether_1.20.4_v1.2.4.jar, EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar, TerraBlender-forge-1.20.1-3.0.1.4.jar, endersdelight-1.20.1-1.0.3.jar, BiomesOPlenty-1.20.1-18.0.0.592.jar, Jade-1.20.1-forge-11.7.1.jar, aeroblender-1.20.1-1.0.1-neoforge.jar, spark-1.10.53-forge.jar, betterfpsdist-1.20.1-4.3.jar, modelfix-1.15.jar, ancient_aether-0.8.11.jar, curios-forge-5.3.5+1.20.1.jar, Patchouli-1.20.1-84-FORGE.jar, Xaeros_Minimap_24.0.3_Forge_1.20.jar, oculus-mc1.20.1-1.6.15a.jar, gravestone-forge-1.20.1-1.0.15.jar, Croptopia-1.20.1-FORGE-3.0.4.jar, FastWorkbench-1.20.1-8.0.4.jar, YungsExtras-1.20-Forge-4.0.3.jar, entityculling-forge-1.6.2-mc1.20.1.jar, canary-mc1.20.1-0.3.3.jar, YungsBetterStrongholds-1.20-Forge-4.0.3.jar, cumulus_menus-1.20.1-1.0.0-neoforge.jar, FastFurnace-1.20.1-8.0.2.jar, ferritecore-6.0.1-forge.jar, cupboard-1.20.1-2.6.jar, YungsBetterEndIsland-1.20-Forge-2.0.6.jar, PuzzlesLib-v8.1.18-1.20.1-Forge.jar, nitrogen_internals-1.20.1-1.0.7-neoforge.jar, deep_aether-1.20.1-1.0.2.jar, aether-redux-2.0.9-1.20.1-neoforge.jar, FastLeafDecay-31.jar, Delightful-1.20.1-3.5.2.jar, YungsBetterMineshafts-1.20-Forge-4.0.4.jar, NekosEnchantedBooks-1.20.1-1.8.0.jar, WWOO-FABRIC+FORGE+QUILT-2.0.0.jar, trimmable-tools-mc1.20-v1.0.4.jar
+[23:30:02] [Render thread/INFO]: Minimap updated server level id: -1705729755 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[23:30:02] [Render thread/WARN]: Received passengers for unknown entity
+[23:30:02] [Render thread/INFO]: Received config from the server: {}
+[23:30:02] [Render thread/INFO]: Loaded 47 advancements
+[23:30:02] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 478.9 ?s
+[23:30:02] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 519.5 ?s
+[23:30:02] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 457.6 ?s
+[23:30:02] [Worker-Main-11/ERROR]: Couldn't parse element loot_tables:aether_redux:blocks/polished_driftshale
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'aether_redux:polished_driftshale'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23:30:02] [Worker-Main-11/ERROR]: Couldn't parse element loot_tables:aether_redux:blocks/polished_driftshale_wall
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'aether_redux:polished_driftshale_wall'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23:30:02] [Worker-Main-11/ERROR]: Couldn't parse element loot_tables:ancient_aether:chests/sentry_laboratory_loot
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ancient_aether:crystal_aercloud'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23:30:02] [Worker-Main-11/ERROR]: Couldn't parse element loot_tables:aether_redux:blocks/polished_driftshale_slab
+java.lang.IllegalArgumentException: Can't find block aether_redux:polished_driftshale_slab
+	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_7561_(LootItemBlockStatePropertyCondition.java:79) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_7561_(LootItemBlockStatePropertyCondition.java:68) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:98) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:88) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23:30:02] [Worker-Main-11/ERROR]: Couldn't parse element loot_tables:aether_redux:blocks/driftshale
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'aether_redux:driftshale'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23:30:02] [Worker-Main-11/ERROR]: Couldn't parse element loot_tables:aether_redux:blocks/polished_driftshale_stairs
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'aether_redux:polished_driftshale_stairs'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23:30:02] [Render thread/WARN]: Found loot table element validation problem in {loot_tables:ancient_aether:chests/sentry_laboratory_treasure_loot}.pools[0].entries[0]: Unknown loot table called ancient_aether:chests/sentry_laboratory_loot
+[23:30:04] [Render thread/WARN]: Failed loading villager cartographer registered at cartographer
+[23:30:04] [Render thread/WARN]: Exception caught when registering villager
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "p_219708_" is null
+	at net.minecraft.world.entity.npc.VillagerTrades$TreasureMapForEmeralds.m_213663_(VillagerTrades.java:878) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at jeresources.collection.TradeList.addMerchantRecipe(TradeList.java:58) ~[JustEnoughResources-1.20.1-1.4.0.247.jar%23257!/:1.4.0.247]
+	at jeresources.collection.TradeList.addITradeList(TradeList.java:69) ~[JustEnoughResources-1.20.1-1.4.0.247.jar%23257!/:1.4.0.247]
+	at jeresources.entry.AbstractVillagerEntry.addITradeLists(AbstractVillagerEntry.java:29) ~[JustEnoughResources-1.20.1-1.4.0.247.jar%23257!/:1.4.0.247]
+	at jeresources.entry.AbstractVillagerEntry.<init>(AbstractVillagerEntry.java:22) ~[JustEnoughResources-1.20.1-1.4.0.247.jar%23257!/:1.4.0.247]
+	at jeresources.entry.VillagerEntry.<init>(VillagerEntry.java:19) ~[JustEnoughResources-1.20.1-1.4.0.247.jar%23257!/:1.4.0.247]
+	at jeresources.util.VillagersHelper.initRegistry(VillagersHelper.java:23) ~[JustEnoughResources-1.20.1-1.4.0.247.jar%23257!/:1.4.0.247]
+	at jeresources.compatibility.Compatibility.init(Compatibility.java:33) ~[JustEnoughResources-1.20.1-1.4.0.247.jar%23257!/:1.4.0.247]
+	at jeresources.proxy.CommonProxy.initCompatibility(CommonProxy.java:14) ~[JustEnoughResources-1.20.1-1.4.0.247.jar%23257!/:1.4.0.247]
+	at jeresources.jei.JEIConfig.registerCategories(JEIConfig.java:98) ~[JustEnoughResources-1.20.1-1.4.0.247.jar%23257!/:1.4.0.247]
+	at mezz.jei.library.load.PluginLoader.lambda$createRecipeCategories$3(PluginLoader.java:91) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:27) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.createRecipeCategories(PluginLoader.java:91) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.load.PluginLoader.createRecipeManager(PluginLoader.java:120) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:132) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.20.1-forge-15.3.0.4.jar%23256!/:15.3.0.4]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1451) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[forge-47.2.23.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23:30:04] [Render thread/INFO]: Registering categories: minecraft:jeresources took 1.933 seconds
+[23:30:04] [Render thread/INFO]: Registering categories took 1.968 s
+[23:30:04] [Render thread/INFO]: Registering vanilla category extensions...
+[23:30:04] [Render thread/INFO]: Registering vanilla category extensions took 3.544 ms
+[23:30:04] [Render thread/INFO]: Registering recipe catalysts...
+[23:30:04] [Render thread/INFO]: Registering recipe catalysts took 922.6 ?s
+[23:30:04] [Render thread/INFO]: Registering advanced plugins...
+[23:30:04] [Render thread/INFO]: Registering advanced plugins took 254.1 ?s
+[23:30:04] [Render thread/INFO]: Building recipe registry...
+[23:30:04] [Render thread/INFO]: Building recipe registry took 17.50 ms
+[23:30:04] [Render thread/INFO]: Registering recipes...
+[23:30:04] [Render thread/INFO]: Registering recipes: jei:minecraft took 226.0 milliseconds
+[23:30:04] [Render thread/INFO]: Registering recipes: aether:jei took 21.05 milliseconds
+[23:30:04] [Render thread/INFO]: Registering recipes: minecraft:jeresources took 341.1 milliseconds
+[23:30:04] [Render thread/INFO]: Registering recipes: twilightforest:jei_plugin took 30.73 milliseconds
+[23:30:04] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin took 13.73 milliseconds
+[23:30:04] [Render thread/INFO]: Ingredients are being removed at runtime: 78 net.minecraft.world.item.ItemStack
+[23:30:04] [Render thread/INFO]: Registering recipes took 639.6 ms
+[23:30:04] [Render thread/INFO]: Registering recipes transfer handlers...
+[23:30:04] [Render thread/INFO]: Registering recipes transfer handlers took 1.750 ms
+[23:30:04] [Render thread/INFO]: Building runtime...
+[23:30:04] [Render thread/INFO]: Registering gui handlers...
+[23:30:04] [Render thread/INFO]: Registering gui handlers took 4.951 ms
+[23:30:04] [Render thread/INFO]: Registering Runtime...
+[23:30:04] [Render thread/INFO]: Starting JEI GUI
+[23:30:04] [Render thread/INFO]: Building ingredient list...
+[23:30:04] [Render thread/INFO]: Building ingredient list took 2.678 ms
+[23:30:04] [Render thread/INFO]: Building ingredient filter...
+[23:30:05] [Render thread/INFO]: Adding 3663 ingredients
+[23:30:05] [Render thread/INFO]: Added 3663 ingredients
+[23:30:05] [Render thread/INFO]: Building ingredient filter took 238.6 ms
+[23:30:05] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 407.8 milliseconds
+[23:30:05] [Render thread/INFO]: Registering Runtime took 408.6 ms
+[23:30:05] [Render thread/INFO]: Building runtime took 419.7 ms
+[23:30:05] [Render thread/INFO]: Sending Runtime...
+[23:30:05] [Render thread/INFO]: Sending Runtime took 317.5 ?s
+[23:30:05] [Render thread/INFO]: Starting JEI took 3.198 s
+[23:30:05] [Render thread/INFO]: Stopping worker threads
+[23:30:05] [Render thread/INFO]: Started 10 worker threads
+[23:30:05] [Render thread/WARN]: Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+[23:30:05] [Render thread/WARN]: Shader clouds could not find uniform named ProjMat in the specified shader program.
+[23:30:05] [Render thread/WARN]: Shader clouds could not find uniform named ColorModulator in the specified shader program.
+[23:30:05] [Render thread/WARN]: Shader clouds could not find uniform named FogStart in the specified shader program.
+[23:30:05] [Render thread/WARN]: Shader clouds could not find uniform named FogEnd in the specified shader program.
+[23:30:05] [Render thread/WARN]: Shader clouds could not find uniform named FogColor in the specified shader program.
+[23:30:05] [Render thread/INFO]: Reloading entity icon resources...
+[23:30:05] [Render thread/INFO]: Done!
+[23:30:08] [Render thread/ERROR]: Exception caught during firing event: Registry Object not present: aether_redux:polished_driftshale
+	Index: 1
+	Listeners:
+		0: LOWEST
+		1: ASM: class net.zepalesque.redux.item.ReduxCreativeTabs buildCreativeModeTabs(Lnet/minecraftforge/event/BuildCreativeModeTabContentsEvent;)V
+java.lang.NullPointerException: Registry Object not present: aether_redux:polished_driftshale
+	at java.base/java.util.Objects.requireNonNull(Objects.java:336)
+	at TRANSFORMER/forge@47.2.23/net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:47)
+	at TRANSFORMER/aether_redux@2.0.9/net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at LAYER PLUGIN/javafmllanguage@1.20.1-47.2.23/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.2.23/net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326)
+	at TRANSFORMER/forge@47.2.23/net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.CreativeModeTabs.m_268957_(CreativeModeTabs.java:1696)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.CreativeModeTabs.m_269421_(CreativeModeTabs.java:1695)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.CreativeModeTabs.m_269226_(CreativeModeTabs.java:1710)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.<init>(CreativeModeInventoryScreen.java:86)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.gui.screens.inventory.InventoryScreen.m_7856_(InventoryScreen.java:48)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.gui.screens.Screen.m_6575_(Screen.java:321)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91152_(Minecraft.java:1007)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91279_(Minecraft.java:1928)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91398_(Minecraft.java:1795)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1112)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.main(Main.java:218)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.23/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+
+[23:30:08] [Render thread/ERROR]: Caught exception during event net.minecraftforge.event.BuildCreativeModeTabContentsEvent@55b35084 dispatch for modid aether_redux
+java.lang.NullPointerException: Registry Object not present: aether_redux:polished_driftshale
+	at java.util.Objects.requireNonNull(Objects.java:336) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:47) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.item.CreativeModeTabs.m_268957_(CreativeModeTabs.java:1696) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.item.CreativeModeTabs.m_269421_(CreativeModeTabs.java:1695) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.item.CreativeModeTabs.m_269226_(CreativeModeTabs.java:1710) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.<init>(CreativeModeInventoryScreen.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.gui.screens.inventory.InventoryScreen.m_7856_(InventoryScreen.java:48) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.gui.screens.Screen.m_6575_(Screen.java:321) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91152_(Minecraft.java:1007) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91279_(Minecraft.java:1928) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91398_(Minecraft.java:1795) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1112) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[forge-47.2.23.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23:30:08] [Render thread/ERROR]: Unreported exception thrown!
+net.minecraftforge.fml.ModLoadingException: The Aether: Redux (aether_redux) encountered an error during the done event phase
+ 7java.lang.NullPointerException: Registry Object not present: aether_redux:polished_driftshale
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:118) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEvent$29(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:326) ~[fmlcore-1.20.1-47.2.23.jar%23291!/:?]
+	at net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1633) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.minecraft.world.item.CreativeModeTab.m_269498_(CreativeModeTab.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.item.CreativeModeTabs.m_268957_(CreativeModeTabs.java:1696) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.item.CreativeModeTabs.m_269421_(CreativeModeTabs.java:1695) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.world.item.CreativeModeTabs.m_269226_(CreativeModeTabs.java:1710) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.<init>(CreativeModeInventoryScreen.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.gui.screens.inventory.InventoryScreen.m_7856_(InventoryScreen.java:48) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.gui.screens.Screen.m_6575_(Screen.java:321) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91152_(Minecraft.java:1007) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91279_(Minecraft.java:1928) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91398_(Minecraft.java:1795) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1112) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23290!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[forge-47.2.23.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.2.23.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.NullPointerException: Registry Object not present: aether_redux:polished_driftshale
+	at java.util.Objects.requireNonNull(Objects.java:336) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204) ~[forge-1.20.1-47.2.23-universal.jar%23295!/:?]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.putAfter(ReduxCreativeTabs.java:434) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.ReduxCreativeTabs.buildCreativeModeTabs(ReduxCreativeTabs.java:47) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.zepalesque.redux.item.__ReduxCreativeTabs_buildCreativeModeTabs_BuildCreativeModeTabContentsEvent.invoke(.dynamic) ~[aether-redux-2.0.9-1.20.1-neoforge.jar%23225!/:2.0.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.20.1-47.2.23.jar%23292!/:?]
+	... 43 more
+[23:30:08] [Render thread/INFO]: Minimap session finalized.
+[23:30:08] [Render thread/INFO]: Finalizing world map session...
+[23:30:08] [Thread-5/INFO]: World map cleaned normally!
+[23:30:08] [Render thread/INFO]: World map session finalized.
+[23:30:08] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[23:30:08] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[23:30:08] [Render thread/INFO]: Stopping JEI
+[23:30:08] [Render thread/INFO]: Sending Runtime Unavailable...
+[23:30:08] [Render thread/INFO]: Stopping JEI GUI
+[23:30:08] [Render thread/INFO]: Sending Runtime Unavailable took 4.694 ms
+[23:30:10] [Render thread/FATAL]: Preparing crash report with UUID 1e3aedb4-b4dd-40ae-98fc-e55387e08b99
+[23:30:10] [Render thread/FATAL]: Preparing crash report with UUID 3964a013-45fc-4c4e-82ca-f0ecd0cfdba9
